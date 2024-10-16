@@ -47,6 +47,7 @@
 - [Plotagon](https://www.plotagon.com/) - Create animated stories with characters and scenes.
 - [Dabble](https://www.dabblewriter.com/) - Online novel writing tool with plot and timeline features.
 - [WriterDuet](https://www.writerduet.com/) - Screenwriting software for real-time collaboration.
+- [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose.
 
 ## Email and Communication
 
